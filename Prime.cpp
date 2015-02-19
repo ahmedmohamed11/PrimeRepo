@@ -12,6 +12,7 @@ bool isPrime(int n)
 
 int main()
 {
+	cout << endl;
 	cout << isPrime(3) << endl << endl;
 	return 0 ;
 }
